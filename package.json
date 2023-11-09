@@ -67,7 +67,7 @@
     "backbone": "1.4.x",
     "chalk": "^4.1.0",
     "chokidar": "^3.3.1",
-    "chromedriver": "^98.0.1",
+    "chromedriver": "^119.0.1",
     "ckeditor5": "35.0.x",
     "cross-env": "^7.0.2",
     "cross-env": "^7.0.2",
